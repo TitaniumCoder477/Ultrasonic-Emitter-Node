@@ -1,0 +1,4 @@
+__pycache__
+.http_server.py.swp
+.venv
+wifi_profile.txt
